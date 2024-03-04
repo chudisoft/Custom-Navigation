@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   day: {
     fontSize: 18,
-    color: '#fefefe',
+    color: '#FBC9D5',
   },
   temp: {
     fontSize: 18,
